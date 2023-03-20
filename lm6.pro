@@ -1,0 +1,12 @@
+/avr_sim_project_file
+C:\Users\wesos\Desktop\assembler\LM6\LM6_Branching\lm6.asm
+mainasm=lm6.asm
+file=lm6.asm,39,1,74
+clock=1000000
+device-type=ATmega328P
+device-package=28-pin-MLF
+windows=acepstwz
+alert1=0,0,-1,-1,,0,0
+adcvref=5.0000
+adcvop=5.0000
+adcch=0.0000,0.0000,0.0000,0.0000,0.0000,0.0000
