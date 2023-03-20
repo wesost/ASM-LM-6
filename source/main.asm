@@ -1,5 +1,5 @@
 
-
+; Citation: Scott Griffith for help with data setup/looping/incrementing display
 .DEVICE ATmega328p ;define correct device
 ldi r16, $f0 ; 
 out ddrd, r16 ; configure pins 4-7 of port d to be output
