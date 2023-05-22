@@ -28,9 +28,9 @@ Graded Score - This will be filled in when the assignment is graded
 
 | Part   | Category                 | Points Possible | Self Evaluation | Graded Score |
 | -------|--------------------------|:---------------:|----------------:|--------------|
-| Part 1 | Branching Demo           |         90 pts  |       90          |              |
-|        | Self Reflection          |         10 pts  |          10       |              |
-| Total  |                          |        100 pts  |        100         |              |
+| Part 1 | Branching Demo           |         90 pts  |       90        |          90  |
+|        | Self Reflection          |         10 pts  |          10     |          10  |
+| Total  |                          |        100 pts  |        100      |         100  |
 
 
 ## What went well? What surprised you in a good way? What do you feel proud about?
